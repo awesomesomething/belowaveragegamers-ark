@@ -217,6 +217,71 @@
                                                                                     8
                                                                                 ]
                                                                 }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Ark Nucleus",
+                                                                    "FontSize":  18,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                                      "Props":  {
+                                                                    "Label":  "Open Ark Nucleus on CurseForge",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                },
+                                                      "OnClickEvent":  {
+                                                                           "Url":  "https://www.curseforge.com/ark-survival-ascended/mods/ark-nucleus"
+                                                                       }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+                                                      "Props":  {
+                                                                    "Padding":  [
+                                                                                    2,
+                                                                                    8,
+                                                                                    2,
+                                                                                    8
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Rename Everything",
+                                                                    "FontSize":  18,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+                                                      "Props":  {
+                                                                    "Padding":  [
+                                                                                    2,
+                                                                                    8,
+                                                                                    2,
+                                                                                    8
+                                                                                ]
+                                                                }
                                                   }
                                               ]
                               },
