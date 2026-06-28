@@ -1,0 +1,291 @@
+{
+    "RequestUID":  "Ark-Nucleus/WebUI",
+    "UUID":  "BelowAverageGamersServerInfo",
+    "Data":  {
+                 "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
+                 "Props":  {
+                               "UUID":  "MainTab",
+                               "Fill":  1
+                           },
+                 "UICache":  {
+                                 "SaveFile":  "BAG-ServerInfo"
+                             },
+                 "Tabs":  [
+                              {
+                                  "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+                                  "Props":  {
+                                                "Title":  "Home",
+                                                "Fill":  1,
+                                                "Note":  "Below Average Gamers"
+                                            },
+                                  "UIItems":  [
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Welcome to Below Average Gamers",
+                                                                    "FontSize":  28,
+                                                                    "Justification":  "Center",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "A cross-ARK: Survival Ascended cluster. Hop between our maps freely.",
+                                                                    "FontSize":  18,
+                                                                    "Justification":  "Center",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+                                                      "Props":  {
+                                                                    "Padding":  [
+                                                                                    2,
+                                                                                    8,
+                                                                                    2,
+                                                                                    8
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Transfers are open across all cluster maps.",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Have fun and do not be a jerk.",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Servers",
+                                                                    "FontSize":  22,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "- The Island  (Below Average Gamers - Test Server)  Port 7779",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "- Astraeos  (Below Average Gamers - Fantasy Island)  Port 7781",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+                                                      "Props":  {
+                                                                    "Padding":  [
+                                                                                    2,
+                                                                                    8,
+                                                                                    2,
+                                                                                    8
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Links",
+                                                                    "FontSize":  22,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                                      "Props":  {
+                                                                    "Label":  "CurseForge Mods",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                },
+                                                      "OnClickEvent":  {
+                                                                           "Url":  "https://www.curseforge.com/members/awesomesomething/projects"
+                                                                       }
+                                                  }
+                                              ]
+                              },
+                              {
+                                  "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+                                  "Props":  {
+                                                "Title":  "Mods",
+                                                "Fill":  1,
+                                                "Note":  "Installed Mods"
+                                            },
+                                  "UIItems":  [
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "Vanilla with Sprinkles",
+                                                                    "FontSize":  18,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                                      "Props":  {
+                                                                    "Label":  "Open Vanilla with Sprinkles on CurseForge",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                },
+                                                      "OnClickEvent":  {
+                                                                           "Url":  "https://www.curseforge.com/ark-survival-ascended/mods/vanilla-with-sprinkles"
+                                                                       }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+                                                      "Props":  {
+                                                                    "Padding":  [
+                                                                                    2,
+                                                                                    8,
+                                                                                    2,
+                                                                                    8
+                                                                                ]
+                                                                }
+                                                  }
+                                              ]
+                              },
+                              {
+                                  "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+                                  "Props":  {
+                                                "Title":  "Rules",
+                                                "Fill":  1,
+                                                "Note":  "Server Rules"
+                                            },
+                                  "UIItems":  [
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "- Be respectful to other players and admins.",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "- No exploiting bugs or meshing.",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "- Admins do not spawn items or creatures for players.",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  },
+                                                  {
+                                                      "Widget":  "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                                      "Props":  {
+                                                                    "Text":  "- Build within reason; do not block resource spawns or obelisks.",
+                                                                    "FontSize":  16,
+                                                                    "Justification":  "Left",
+                                                                    "Padding":  [
+                                                                                    5,
+                                                                                    5,
+                                                                                    5,
+                                                                                    5
+                                                                                ]
+                                                                }
+                                                  }
+                                              ]
+                              }
+                          ]
+             }
+}
